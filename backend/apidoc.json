@@ -1,0 +1,7 @@
+{
+  "name": "zoox-doc",
+  "version": "0.1.0",
+  "description": "apiDoc zoox",
+  "title": "Custom apiDoc browser title",
+  "url": "http://localhost:3333/api"
+}
